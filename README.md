@@ -2,7 +2,7 @@
 # This repository is created for OASIS INTERNSHIP TASKS
 
 
-### I have complete 3 Tasks from Level 1 in Web Development domain:
+### I have complete 1 Task from Level 1 in Web Development domain:
 
 - [Task 1 :- Landing Page](http://127.0.0.1:5500/index.html#Services)
 
