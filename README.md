@@ -5,8 +5,6 @@
 ### I have complete 3 Tasks from Level 1 in Web Development domain:
 
 - [Task 1 :- Landing Page](http://127.0.0.1:5500/index.html#Services)
-- [Task 2 :- Portfolio]()
-- [Task 3 :- Temperature Converter Website]()
 
 ``` 
 - If links are dead please let me know!!
